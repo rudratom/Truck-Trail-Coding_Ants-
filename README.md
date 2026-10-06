@@ -1,2 +1,2 @@
 # Truck-Trail-Coding_Ants-
-🚛 *TruckTrail* — A smart logistics and route-management solution designed to improve truck transportation through efficient route planning, real-time tracking, and a user-friendly dashboard. Built for the PixelRush Hackathon with a focus on practical, scalable, and responsive web design using HTML &amp; CSS.
+🚚 TruckTrail — A modern food-truck discovery and pre-ordering experience designed for fast, one-thumb ordering. Find nearby open trucks, explore menus, choose pickup times, track orders, and handle real-world situations like sold-out dishes or moved trucks. Built for PixelRush 2026 using HTML & CSS with a premium, responsive-first UI/UX.
